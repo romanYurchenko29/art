@@ -1,6 +1,7 @@
 # art
 
-A new Flutter project.
+
+домашняя работа, изучение Future в Flutter.
 
 ## Getting Started
 
